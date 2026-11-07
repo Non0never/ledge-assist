@@ -1,0 +1,4 @@
+Name       = Ledge Assist
+Version    = 1.0.0
+Essentials = 21.1,21.99,22
+Credits    = NoNonever
